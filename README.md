@@ -80,6 +80,8 @@ Segmented data by room type, neighborhood, and host reliability to uncover high-
 
 Developed dynamic visualizations to allow users to filter and drill down into occupancy vs. price elasticity.
 
+---
+
 ➡️ Get in Touch
 
 I am open to collaborations and new professional opportunities in the data science and business intelligence space.
@@ -89,6 +91,8 @@ I am open to collaborations and new professional opportunities in the data scien
 [Link to your Portfolio/GitHub Repository]
 
 [chikaanthoni44@gmail.com]
+
+[+234 7064342953]
 
 <!--
 **chikaanthoni44-max/chikaanthoni44-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
