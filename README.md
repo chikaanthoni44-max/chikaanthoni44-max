@@ -86,6 +86,8 @@ Developed dynamic visualizations to allow users to filter and drill down into oc
 
 I am open to collaborations and new professional opportunities in the data science and business intelligence space
 
+https://www.linkedin.com/in/chika-anthoni
+
 [Link to your Portfolio/GitHub Repository]
 
 [chikaanthoni44@gmail.com]
