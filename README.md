@@ -84,9 +84,7 @@ Developed dynamic visualizations to allow users to filter and drill down into oc
 
 ➡️ Get in Touch
 
-I am open to collaborations and new professional opportunities in the data science and business intelligence space.
-
-[Link to your LinkedIn Profile]
+I am open to collaborations and new professional opportunities in the data science and business intelligence space
 
 [Link to your Portfolio/GitHub Repository]
 
